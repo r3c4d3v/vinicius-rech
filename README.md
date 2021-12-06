@@ -3,7 +3,7 @@
 :elephant: FullStack Developer na [Duo Studio Interativo](https://duo.studio/)
 
 :briefcase: <a target="_blank" href="https://https://www.linkedin.com/in/vinicius-rech/" target="_blank">LinkedIn</a><br>
-:camera_flash: <a target="_blank" href="https://www.instagram.com/vinicius.r3ch/ target="_blank">Instagram</a><br>
+:camera_flash: <a target="_blank" href="https://www.instagram.com/vinicius.r3ch/" target="_blank">Instagram</a><br>
 
 #### Tecnologias
 <p>
