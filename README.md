@@ -18,5 +18,4 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
-<img src="https://img.shields.io/badge/KDE%20neon-219FA9?style=for-the-badge&logo=kde&logoColor=black" />
-<a href="https://app.daily.dev/Rech"><img src="https://api.daily.dev/devcards/060e24d161a7465cbe8f596fcac8fa7c.png?r=byf" width="400" alt="Vinícius Rech's Dev Card"/></a>
+
