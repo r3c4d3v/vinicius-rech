@@ -1,6 +1,6 @@
 ### Oi, sou o Vinícius Rech! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-:elephant: Pleno FullStack Developer na [Studio 360](https://studio360.app/)
+:elephant: Pleno FullStack Developer na [Windel Sistemas](https://www.windel.com.br)
 
 :briefcase: <a href="https://www.linkedin.com/in/vinicius-rech/" target="_blank">LinkedIn</a><br>
 :camera_flash: <a href="https://www.instagram.com/vinicius.r3ch/" target="_blank">Instagram</a><br>
