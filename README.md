@@ -16,10 +16,16 @@ Pleno FullStack Developer na [Windel Sistemas](https://www.windel.com.br)
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-#### Frameworks/Libraries
+#### Frameworks/Libraries/Tools
 <p>
   <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=78CFF5" />
   <img src="https://img.shields.io/badge/Swiper-61DBFB?style=for-the-badge&logo=swiper&logoColor=black" />
+  <img src="https://img.shields.io/badge/chakra%20ui-4EC8C4?style=for-the-badge&logo=chakraui&logoColor=white" />
+  <img src="https://img.shields.io/badge/livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpmyadmin-F89C0E?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+  <img src="https://img.shields.io/badge/webstorm-07C3F2?style=for-the-badge&logo=WebStorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0076C6?style=for-the-badge&logo=visualstudio&=white" />
+  <img src="https://img.shields.io/badge/jira-243655?style=for-the-badge&logo=jira&=white" />
 </p>
