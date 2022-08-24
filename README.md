@@ -31,4 +31,5 @@ Pleno FullStack Developer na [Windel Sistemas](https://www.windel.com.br)
   <img src="https://img.shields.io/badge/webpack-%232C3A42?style=for-the-badge&logo=webpack&logoColor=white" />
   
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/vinicius-rech/github-readme-stats)
 
