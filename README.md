@@ -28,4 +28,7 @@ Pleno FullStack Developer na [Windel Sistemas](https://www.windel.com.br)
   <img src="https://img.shields.io/badge/webstorm-07C3F2?style=for-the-badge&logo=WebStorm&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0076C6?style=for-the-badge&logo=visualstudio&=white" />
   <img src="https://img.shields.io/badge/jira-243655?style=for-the-badge&logo=jira&=white" />
+  <img src="https://img.shields.io/badge/webpack-%232C3A42?style=for-the-badge&logo=webpack&logoColor=white" />
+  
 </p>
+![vinicius-rech github stats](https://github-readme-stats.vercel.app/api?username=vinicius-rech&show_icons=true&theme=dracula)
