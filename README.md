@@ -29,7 +29,8 @@ Pleno FullStack Developer na [Windel Sistemas](https://www.windel.com.br)
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0076C6?style=for-the-badge&logo=visualstudio&=white" />
   <img src="https://img.shields.io/badge/jira-243655?style=for-the-badge&logo=jira&=white" />
   <img src="https://img.shields.io/badge/webpack-%232C3A42?style=for-the-badge&logo=webpack&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Vite-%23F7DF1C?style=for-the-badge&logo=Vite&logoColor=A355FE" />
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/vinicius-rech/github-readme-stats)
+
+
 
